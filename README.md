@@ -2,14 +2,14 @@
 
 This repository contains an **Exploratory Data Analysis (EDA)** project focused on understanding trends, patterns, and insights from a dataset on Data Science salaries. 
 
--
+
 
 ## 📁 Project Files
 
 1. **`DS Salaries EDA.ipynb`**: The main Jupyter Notebook containing the code, visualizations, and insights derived from the dataset.
 2. **`ds_salaries.csv`**: The dataset used for analysis, containing information on job titles, company locations, salaries, and more.
 
--
+
 
 ## 📋 Dataset Overview
 
@@ -19,7 +19,7 @@ The `ds_salaries.csv` file contains the following columns:
 - **Salary**: Compensation details in various currencies.
 - **...and more**: Includes other relevant columns.
 
----
+
 
 ## 🚀 Project Objectives
 
@@ -29,7 +29,7 @@ The primary goals of this analysis are:
 3. To identify factors (location and experience) influencing compensation.
 4. To visualize key insights about the job market.
 
----
+
 
 ## 🛠️ Data Cleaning
 
@@ -37,7 +37,7 @@ The dataset was cleaned to ensure accurate analysis by:
 - Removing duplicate entries.
 - Treating outliers to avoid skewing the results.
 
----
+
 
 ## 📊 Key Insights and Visualizations
 
