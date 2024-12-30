@@ -2,7 +2,7 @@
 
 This repository contains an **Exploratory Data Analysis (EDA)** project focused on understanding trends, patterns, and insights from a dataset on Data Science salaries. 
 
----
+-
 
 ## 📁 Project Files
 
