@@ -9,7 +9,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** project focused 
 1. **`DS Salaries EDA.ipynb`**: The main Jupyter Notebook containing the code, visualizations, and insights derived from the dataset.
 2. **`ds_salaries.csv`**: The dataset used for analysis, containing information on job titles, company locations, salaries, and more.
 
----
+-
 
 ## 📋 Dataset Overview
 
